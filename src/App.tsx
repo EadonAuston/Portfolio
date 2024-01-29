@@ -168,7 +168,7 @@ function App() {
         <div className="flex flex-col  lg:flex-row text-center justify-center mt-[100px] items-center">
           <div className="avatar">
             <div className="w-[200px] rounded-full ml-[10px] mt-[20px]">
-              <img src="../src/assets/EadonSelfie.jpg" alt="Eadon Auston" />
+              <img src="/assets/EadonSelfie.jpg" alt="Eadon Auston" />
             </div>
           </div>
           <div className="ml-[10px] max-w-[300px]">
@@ -205,10 +205,10 @@ function App() {
                 <FontAwesomeIcon icon={faNodeJs} />
               </li>
               <li>
-                <img src="../src/assets/tailwind-css.svg" alt="" />
+                <img src="/assets/tailwind-css.svg" alt="" />
               </li>
               <li>
-                <img src="../src/assets/vscode.png" width="80%" alt="" />
+                <img src="/assets/vscode.png" width="80%" alt="" />
               </li>
               <li>
                 <FontAwesomeIcon icon={faGit} />
@@ -234,7 +234,7 @@ function App() {
           <div className="mr-[10px]">
             <div className="btn btn-square w-[22vw] h-[22vw]">
               <a href="https://github.com/EadonAuston/FinancialPlanner">
-                <img src="../src/assets/FinancialPlanner.JPG" alt="" />
+                <img src="/assets/FinancialPlanner.JPG" alt="" />
               </a>
             </div>
             <div className="text-center text-[20px] font-semibold">
@@ -244,7 +244,7 @@ function App() {
           <div className="mr-[10px]">
             <div className="btn btn-square w-[22vw] h-[22vw]">
               <a href="https://eadon-coderad.netlify.app">
-                <img src="../src/assets/CodeRad.jpg" alt="" />
+                <img src="/assets/CodeRad.jpg" alt="" />
               </a>
             </div>
             <div className="text-center text-[20px] font-semibold">CodeRad</div>
@@ -252,11 +252,7 @@ function App() {
           <div className="mr-[10px]">
             <div className="btn btn-square w-[22vw] h-[22vw]">
               <a href="https://eadon-saas.netlify.app">
-                <img
-                  src="../src/assets/SaaS.jpg"
-                  alt=""
-                  className="max-h-[22vw]"
-                />
+                <img src="/assets/SaaS.jpg" alt="" className="max-h-[22vw]" />
               </a>
             </div>
             <div className="text-center text-[20px] font-semibold">
@@ -266,7 +262,7 @@ function App() {
           <div className="mr-[10px]">
             <div className="btn btn-square w-[22vw] h-[22vw]">
               <a href="https://github.com/EadonAuston/Battleship">
-                <img src="../src/assets/Battleship.jpg" alt="" />
+                <img src="/assets/Battleship.jpg" alt="" />
               </a>
             </div>
             <div className="text-center text-[20px] font-semibold">
@@ -282,7 +278,7 @@ function App() {
             <div className="flex flex-col text-center justify-center items-center">
               <div className="avatar">
                 <div className="w-[200px] rounded-full ml-[10px] mt-[500px] md:mt-[250px] lg:mt-[100px]">
-                  <img src="./assets/EadonSelfie.jpg" alt="Eadon Auston" />
+                  <img src="/assets/EadonSelfie.jpg" alt="Eadon Auston" />
                 </div>
               </div>
               <div className="ml-[10px] max-w-[1000px]">
@@ -351,7 +347,7 @@ function App() {
             <div className="flex flex-col text-center justify-center items-center">
               <div className="avatar">
                 <div className="w-[200px] rounded-full ml-[10px] mt-[500px] md:mt-[250px] lg:mt-[100px]">
-                  <img src="../src/assets/EadonSelfie.jpg" alt="Eadon Auston" />
+                  <img src="/assets/EadonSelfie.jpg" alt="Eadon Auston" />
                 </div>
               </div>
               <div className="ml-[10px] max-w-[1000px]">
