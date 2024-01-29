@@ -282,7 +282,7 @@ function App() {
             <div className="flex flex-col text-center justify-center items-center">
               <div className="avatar">
                 <div className="w-[200px] rounded-full ml-[10px] mt-[500px] md:mt-[250px] lg:mt-[100px]">
-                  <img src="/assets/EadonSelfie.jpg" alt="Eadon Auston" />
+                  <img src="./assets/EadonSelfie.jpg" alt="Eadon Auston" />
                 </div>
               </div>
               <div className="ml-[10px] max-w-[1000px]">
